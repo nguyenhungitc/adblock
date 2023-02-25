@@ -4,7 +4,7 @@
 
   Bước 1: Bạn hãy vào Cài đặt, sau đó nhấn vào mục Wi-Fi. Tiếp theo, bạn chọn vào tên Wi-Fi đang sử dụng.
   Bước 2: Bạn kéo xuống gần cuối trang và chọn "Định cấu hình proxy".
-  Bước 3: Tiếp đến, bạn chọn chế độ Tự động, sau đó dán đường link [[https://newapp.vn/blockads.js](https://raw.githubusercontent.com/nguyenhungitc/adblock/main/adblock.js)](https://raw.githubusercontent.com/nguyenhungitc/adblock/main/adblock.js) vào phần URL. Cuối cùng, hãy bấm Lưu để hoàn tất.
+  Bước 3: Tiếp đến, bạn chọn chế độ Tự động, sau đó dán đường link https://raw.githubusercontent.com/nguyenhungitc/adblock/main/adblock.js vào phần URL. Cuối cùng, hãy bấm Lưu để hoàn tất.
 
 ## Chặn cửa sổ quảng cáo trên trình duyệt Safari
 
